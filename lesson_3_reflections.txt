@@ -4,3 +4,5 @@ Describe the differences between forks, clones, and branches. When would you use
 forks are only repositories available on github,clones are the exack copy of git repository on other machine and branch is inside the repository for experimental code
 What is the benefit of having a copy of the last known state of the remote stored locally?
 conrol on the repository state and gives flexibility to merge locally then push to remote
+What is the benefit of having a copy of the last known state of the remote stored locally?
+keep the state of the remote repository in control while work on your  locally, and makes easy to merge own commits to the remote by merging it locally before push to the remote.
