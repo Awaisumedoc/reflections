@@ -6,3 +6,5 @@ What is the benefit of having a copy of the last known state of the remote store
 conrol on the repository state and gives flexibility to merge locally then push to remote
 What is the benefit of having a copy of the last known state of the remote stored locally?
 keep the state of the remote repository in control while work on your  locally, and makes easy to merge own commits to the remote by merging it locally before push to the remote.
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+it can be achieved by saving file with different versions however, it woud be difficult to track changer.
