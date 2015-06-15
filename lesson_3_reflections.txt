@@ -8,3 +8,5 @@ What is the benefit of having a copy of the last known state of the remote store
 keep the state of the remote repository in control while work on your  locally, and makes easy to merge own commits to the remote by merging it locally before push to the remote.
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 it can be achieved by saving file with different versions however, it woud be difficult to track changer.
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+working in sepearte branch gives the liberty to add someting without distubing the master file. 
